@@ -2,12 +2,13 @@
 
 ## Proyectos
 
-### CNN
+### [CNN]
 
-### Phaser
+### [Phaser]
 
-### Haarcascade
+### [Haarcascade]
 
 ## Tareas
 
-### 1 (https://github.com/NicolasAlejandroBasilioNava/TrabajosIATec/blob/main/EjerciciosIaNicolas/Tarea1.md)
+### [1] (https://github.com/NicolasAlejandroBasilioNava/TrabajosIATec/blob/main/EjerciciosIaNicolas/Tarea1.md)
+### [2] ()

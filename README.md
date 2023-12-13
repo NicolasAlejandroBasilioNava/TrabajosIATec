@@ -1,5 +1,5 @@
 ### TrabajosIATec
-### [CNN]()
+### [CNN](https://github.com/NicolasAlejandroBasilioNava/TrabajosIATec/blob/main/ProyectosIaNicolas/CNN.ipynb)
 ### [Phaser]()
 ### [Haarcascade]()
 ## Tareas
